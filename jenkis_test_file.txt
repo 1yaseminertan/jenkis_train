@@ -1,8 +1,3 @@
 <<<<<<< HEAD
-THIS IS A TEST DOCUMENT!!!!!!!****kkgghhhh
-THIS IS A TEST DOCUMENT!!!!!!!****kkgghh
-TEST hjgjgj
-fdfdsfs
-czxczxc
-test
-pipeline
+THIS IS A TEST DOCUMENT!!!!!!!****
+THIS IS A TEST DOCUMENT!!!!!!!****
